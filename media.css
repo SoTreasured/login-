@@ -1,0 +1,13 @@
+@media only screen and (min-width: 280px) and (max-width:500px){
+    div.green{
+        background-color: rgb(25, 82, 39);
+        color: white;
+        text-align: center;
+        justify-items: center;
+        padding: 130px 70px 30px 70px;   
+    }
+
+    div.background{
+        margin-left: 0px;
+    }
+}
